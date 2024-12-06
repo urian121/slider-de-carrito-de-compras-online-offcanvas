@@ -1,5 +1,9 @@
 # Slider de Carrito de Compras 🛒
 
+## Resultado final
+
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/Offcanvas-carrito-shoppi.png)
+
 Crea un slider interactivo para carritos de compra utilizando HTML, CSS y Bootstrap 5. Este diseño incluye:
 
 - **Offcanvas de Bootstrap**: Un panel deslizable para el carrito.
