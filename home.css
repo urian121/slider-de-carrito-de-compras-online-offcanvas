@@ -10,3 +10,8 @@
     font-size: 13px !important;
     color: #888 !important;
 }
+.offcanvas-body {
+  background-color: #f8f9fa;
+  max-height: 65vh;
+  overflow-y: auto;
+}
