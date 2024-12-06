@@ -1,0 +1,12 @@
+.container-cart {
+  max-width: 400px;
+}
+.title-product{
+    font-size: 15px !important;
+    color: #333;
+    font-weight: bold;
+}
+.detalles-product{
+    font-size: 13px !important;
+    color: #888 !important;
+}
